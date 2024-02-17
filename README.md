@@ -1,3 +1,3 @@
 # Project-Details:
-CI-CD Pipeline & Deployment
+CI-CD Pipeline Project
 
