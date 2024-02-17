@@ -1,3 +1,3 @@
 # Project-Details:
-Ci-CD Pipeline
+CI-CD Pipeline
 
