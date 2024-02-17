@@ -1,1 +1,18 @@
-Ci-cd
+Project-Description:
+CI/CD Pipeline:[DevOps]
+Complete CI/CD Pipeline setup & deploying java application on kubernetes
+remote server through Jenkins, logging on kubernetes master server and
+triggering all command on Jenkins server, creating the image, running the
+container, logging on docker hub and pulling, pushing image, fetching source
+code from Git-hub, writing pipeline as a code and setup configuration. Jenkins
+is used to Automate code build using maven integrated with jenkins setup &
+running jenkins server and set up CI/CD pipeline, need to install various tools on
+the server like: maven, Java, docker, ansible and required to set path
+configuration of Git, Java, Maven, After logging on Jenkins UI dashboard
+providing Docker-hub logging credential, to extend the feature of Jenkins,
+installing many plugins like: warnings, Jacoco, JUnit , Build pipeline , docker
+pipeline. Setup deployment environment, creating automate trigger pipeline by
+writing pipeline as code,defining stages and steps for getting good quality of
+software, generating script through pipeline syntax .Stages:1) Code Compile 2)
+Code Review 3) Code Testing 4) Code Coverage 5) Packaging 6) Build & Publish
+7) Deploy
